@@ -5,7 +5,7 @@ permalink: /
 read_time: false
 header:
   overlay_color: "#5752B9"
-excerpt: "Software for ensuring that data is used as-intended."
+excerpt: "Software that ensures data is used as-intended."
 ---
 
 <center>
