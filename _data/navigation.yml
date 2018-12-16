@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Blog"
+    url: "/blog/"
+    description: "Company Blog"
+  - title: "About"
+    url: "/about/"
+    description: "Information About the Company"
+  - title: "Contact"
+    url: "/contact/"
+    description: "Contact the Company"

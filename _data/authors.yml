@@ -1,0 +1,31 @@
+Tranquil:
+  name             : "Tranquil Data"
+  avatar           : "/assets/images/leaf.png"
+  bio              : "Giving context to data since 2018."
+  location         : "Boston, MA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:info@tranquildata.com
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/technicallyseth"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/company/tranquildata/about/"
+
+Seth:
+  name             : "Seth Proctor"
+  avatar           : "/assets/images/teapot.png"
+  bio              : "CEO & Co-Founder."
+  location         : "Boston, MA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/technicallyseth"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/sethproctor/"
+    - label: "Personal Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://technicallyseth.com"
